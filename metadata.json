@@ -1,0 +1,8 @@
+{
+  "name": "پارچه آوین | Avin Fabric",
+  "description": "فروشگاه تخصصی و مدرن پارچه‌های لباس زنانه با امکان ثبت سریع سفارش در ربات تلگرام",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
